@@ -2141,3 +2141,7 @@ textarea.input-field {
   }
 
 }
+
+img.counterimg {
+    display: none;
+}
