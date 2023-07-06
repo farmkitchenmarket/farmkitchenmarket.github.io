@@ -2145,3 +2145,7 @@ textarea.input-field {
 img.counterimg {
     display: none;
 }
+
+a.back-top-btn.active +a {
+    display: none;
+}
